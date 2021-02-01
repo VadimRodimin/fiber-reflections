@@ -1,4 +1,4 @@
-# fiber-reflections
+# Fiber-reflections: reflected fiber-optics signals simulation
 In order to understand the origin of various reflected signals  in the fiber optical scheme, we simulated reflections.
 
 The project is related to fiber-optic circuits and networks. In complex, branched schemes, as, in particular, in go-and-return schemes, laser pulses undergo multiple reflections. This becomes especially critical when we work with very weak laser pulses. This is exactly what happens in the case of a quantum key distribution.
